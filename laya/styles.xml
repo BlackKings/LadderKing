@@ -1,0 +1,7 @@
+<res>
+   <item name="comp/bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=27,10,5,10" picType="0" scale="0"/>
+   <item name="img/image_ball.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/image_adder.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/image_pig.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,36,0,102" picType="0" scale="0"/>
+   <item name="img/image_ldder.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>
